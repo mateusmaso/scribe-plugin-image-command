@@ -1,2 +1,2 @@
-scribe-plugin-image-command.js
-==============================
+scribe-plugin-image-command
+===========================
